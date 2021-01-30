@@ -22,7 +22,7 @@ To run this project, install it using `pip` command:
 The scraping functions are located in ```functions``` folder ```scraper.py``` file
 
 ## Features
-The package provides two functions: ```autoplius_scraper(sample_size: int)``` and ```autoplius_scraper2(sample_size: int)```, where sample_size refers to the number of samples to be scraped. Both functions scrape en.autoplius.lt webpage and extract details about each advert: manufacturing date, price (in €), engine (in l), types of vehicle, fuel and gearbox, engine power (in kW) and mileage (in km). The only difference is that ```autoplius_scraper``` also extracts a column "Marque" with car brand and model (e.g. "Volkswagen Passat"), whereas ```autoplius_scraper2``` returns the "Marque" in two columns: "Brand" (e.g. "Volkswagen") and "Model" (e.g. "Passat"). 
+The package provides two functions: ```autoplius_scraper(sample_size: int)``` and ```autoplius_scraper2(sample_size: int)```, where ```sample_size``` refers to the number of samples to be scraped. Both functions scrape en.autoplius.lt webpage and extract details about each advert: manufacturing date, price (in €), engine (in l), types of vehicle, fuel and gearbox, engine power (in kW) and mileage (in km). The only difference is that ```autoplius_scraper``` also extracts a column "Marque" with car brand and model (e.g. "Volkswagen Passat"), whereas ```autoplius_scraper2``` returns the "Marque" in two columns: "Brand" (e.g. "Volkswagen") and "Model" (e.g. "Passat"). 
 
 ## Recommendations
 While in theory both functions return the same information, ```autoplius_scraper2``` should be used only when the user is sure that no None values will be scraped from the website.
