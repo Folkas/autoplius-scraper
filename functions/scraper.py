@@ -121,7 +121,7 @@ def autoplius_scraper(sample_size: int) -> pd.DataFrame:
       "Engine_l": engines,
       "Power_kW": powers,
       "Mileage_km": mileages,
-      "Price_€": prices
+      "Price_euro": prices
   })
   
   #exporting the dataframe to .csv file
@@ -248,7 +248,7 @@ def autoplius_scraper2(sample_size: int) -> pd.DataFrame:
       "Engine_l": engines,
       "Power_kW": powers,
       "Mileage_km": mileages,
-      "Price_€": prices
+      "Price_euro": prices
   })
   #exporting the dataframe to .csv file
   result.to_csv('autoplius_edited.csv', index=False)
