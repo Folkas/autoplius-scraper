@@ -1,0 +1,61 @@
+Marque,CarType,FuelType,Gearbox,ManufacturingDate,Engine_l,Power_kW,Mileage_km,Price_euro
+Ford Transit Connect, commercial        ,Diesel,Manual,2013,1.8,66,278154,2200
+BMW 530, wagon        ,Diesel,Automatic,2005,3.0,160,300000,3300
+Citroen Jumper, commercial        ,Diesel,Manual,2011,2.2,,368000,4800
+Audi S6, saloon / sedan        ,Petrol,Automatic,2016,4.0,331,159655,29600
+BMW 218 Active Tourer, mpv / minivan        ,Diesel,Automatic,2015,2.0,110,195000,9500
+BMW X6, suv / off-road        ,Diesel,Automatic,2016,3.0,190,234000,28900
+Volkswagen Phaeton, limousine        ,Petrol / LPG,Automatic,2008,4.2,246,230000,3500
+BMW 525, saloon / sedan        ,Diesel,Automatic,2005,2.5,130,298000,3700
+Ford Focus, wagon        ,Diesel,Automatic,2012,2.0,103,218051,5600
+Ford Mondeo, wagon        ,Diesel,Manual,2013,2.0,103,204000,5800
+Mercedes-Benz E350, wagon        ,Diesel,Automatic,2012,3.0,195,207000,9900
+Nissan Qashqai, mpv / minivan        ,Diesel,Automatic,2014,1.6,96,152000,11500
+Fiat Ducato, passenger vans        ,Diesel,Automatic,2011,3.0,116,296784,13600
+Land Rover Range Rover Sport, suv / off-road        ,Diesel,Automatic,2012,3.0,188,161000,14900
+Volkswagen Amarok, pick-up        ,Diesel,Automatic,2013,2.0,132,129003,17900
+Mercedes-Benz V250, mpv / minivan        ,Diesel,Automatic,2014,2.1,140,219903,27990
+Mercedes-Benz A180, hatchback        ,Diesel,Manual,2006,2.0,80,226574,1900
+BMW 530, wagon        ,Diesel,Manual,2004,3.0,160,174000,3700
+Mercedes-Benz C180, wagon        ,Petrol,Manual,2008,1.8,115,159016,5290
+Mercedes-Benz R350, mpv / minivan        ,Petrol,Automatic,2011,3.5,200,198488,10500
+Skoda Octavia, wagon        ,Diesel,Manual,2018,1.6,85,183147,10990
+BMW X6, suv / off-road        ,Petrol,Automatic,2009,3.0,225,208000,13500
+Toyota Sequoia, suv / off-road        ,Petrol / LPG,Automatic,2009,5.7,284,250000,14000
+Mercedes-Benz CLA250, coupe        ,Petrol,Automatic,2014,2.0,155,156433,15700
+Mercedes-Benz CLK55 AMG, convertible        ,Petrol,Automatic,2004,5.4,270,86265,15900
+Volkswagen T-Cross, suv / off-road        ,Petrol,Manual,2020,1.0,70,950,16550
+Mercedes-Benz Viano, mpv / minivan        ,Diesel,Automatic,2011,2.1,120,202069,16900
+BMW 520, wagon        ,Petrol,Automatic,2013,2.0,135,110908,17000
+BMW 535, wagon        ,Diesel,Automatic,2013,3.0,230,160436,17900
+Mercedes-Benz CLA250, coupe        ,Petrol,Automatic,2015,2.0,155,92651,18300
+Mercedes-Benz CLA250, saloon / sedan        ,Petrol,Automatic,2017,2.0,155,48837,19490
+BMW 525, wagon        ,Diesel,Automatic,2015,2.0,160,166835,19900
+Mercedes-Benz -kita-, mpv / minivan        ,Petrol,Automatic,2016,2.0,155,39460,22600
+Mercedes-Benz -kita-, mpv / minivan        ,Petrol,Automatic,2018,2.0,155,36714,27250
+Mercedes-Benz GLE350, suv / off-road        ,Petrol,Automatic,2016,3.5,225,29929,28000
+BMW X2, suv / off-road        ,Petrol,Automatic,2018,2.0,170,21343,29500
+BMW 530, wagon        ,Diesel,Automatic,2018,3.0,195,68600,36900
+BMW X2, suv / off-road        ,Diesel,Automatic,2019,2.0,140,23049,36900
+Audi A6, saloon / sedan        ,Petrol / LPG,Manual,1997,2.4,121,363408,850
+Toyota Yaris, hatchback        ,Petrol,Manual,2006,1.0,51,158000,899
+Renault Espace, mpv / minivan        ,Diesel,Manual,2003,2.2,110,217000,1099
+Citroen C8, mpv / minivan        ,Petrol,Manual,2006,2.0,103,205000,1399
+Audi 80, saloon / sedan        ,Diesel,Manual,1983,1.6,51,306000,1590
+Honda Accord, saloon / sedan        ,Diesel,Manual,2007,2.2,103,326000,1599
+Toyota Corolla, hatchback        ,Petrol,Manual,2005,1.6,81,205000,1799
+Citroen C4, hatchback        ,Petrol,Manual,2009,1.6,88,185000,1899
+Suzuki SX4, saloon / sedan        ,Petrol,Manual,2008,1.6,79,93000,1999
+Peugeot 207, hatchback        ,Petrol,Manual,2007,1.4,65,68000,2199
+Peugeot 308, hatchback        ,Petrol,Manual,2010,1.6,88,184000,2399
+Mercedes-Benz Viano, mpv / minivan        ,Diesel,Automatic,2003,2.2,110,384466,2400
+Skoda Octavia, hatchback        ,Petrol,Manual,2007,1.6,85,145000,2499
+Volkswagen Passat, saloon / sedan        ,Diesel,Manual,2005,2.0,103,285000,2590
+Renault Megane, hatchback        ,Petrol,Manual,2009,1.6,81,179000,2699
+Toyota Corolla, saloon / sedan        ,Petrol,Automatic,2008,1.6,91,335000,2899
+Chevrolet Captiva, suv / off-road        ,Diesel,Manual,2007,2.0,110,281000,2999
+Chrysler 300C, saloon / sedan        ,Petrol,Automatic,2004,2.7,142,134000,3099
+Volkswagen Eos, convertible        ,Petrol,Manual,2006,2.0,110,201000,3199
+Mercedes-Benz E320, hatchback        ,Diesel,Automatic,2007,3.0,165,339000,3699
+Nissan Qashqai, suv / off-road        ,Petrol,Automatic,2008,2.0,104,276000,3699
+Mercedes-Benz C320, coupe        ,Petrol,Automatic,2004,3.2,160,306919,3750
