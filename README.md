@@ -8,7 +8,6 @@
 * [Setup](#setup)
 * [Features](#features)
 * [Other](#other)
-* [Recommendations](#recommendations)
 
 
 ## General info:
@@ -85,6 +84,3 @@ Firstly, the requested sample size is converted into the number of website pages
 
 ## Other
 The ```old_scraper.py``` in ```function``` folder has an old function, which alone performs all operations as the ```autoplius_scraper``` class.
-
-## Recommendations
-While in theory both functions return the same information, ```autoplius_scraper2``` should be used only when the user is sure that no None values will be scraped from the website.
